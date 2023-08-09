@@ -30,8 +30,12 @@ jobs:
                 image=$(cat $d/config.yaml | grep -Po '(^image:).*' | sed 's/image://g' | sed 's/^[ \t]*//g' | sed 's/"//g')
                 slug_image+=("{\"slug\": \"$slug\", \"image\": \"$image\", \"version\": \"$version\", \"name\": \"$name\"}")
 
-                sed -i 's/image: ghcr.io/image: ghcr.dockerproxy.com/' $d/config.yaml
-                sed -i 's/image: homeassistant/image: dockerproxy.com\/homeassistant/' $d/config.yaml
+                if [[ $image = ghcr.io* ]]; then
+                  new_image=${image/ghcr.io/ghcr.dockerproxy.com}
+                else
+                  new_image="dockerproxy.com/$image"
+                fi
+                sed -i "s|$image|$new_image|g" $d/config.yaml
               fi
               if [ -f "$d/config.json" ]; then
                 name=$(cat "$d/config.json" | jq -r ".name")
@@ -45,10 +49,7 @@ jobs:
                 else
                   new_image="dockerproxy.com/$image"
                 fi
-                
                 sed -i "s|$image|$new_image|g" $d/config.json
-
-                cat $d/config.json
               fi
           done
           shopt -s extglob
