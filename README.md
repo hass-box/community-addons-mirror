@@ -657,10 +657,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v4.8.15
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v4.8.15/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v4.8.16
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v4.8.16/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-v4.8.15-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-v4.8.16-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -693,10 +693,10 @@ SOFTWARE.
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [airsonos-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [airsonos-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/v0.13.5
-[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/v0.13.5/README.md
+[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/v0.13.6
+[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/v0.13.6/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/addon-appdaemon/issues
-[appdaemon-version-shield]: https://img.shields.io/badge/version-v0.13.5-blue.svg
+[appdaemon-version-shield]: https://img.shields.io/badge/version-v0.13.6-blue.svg
 [appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -720,10 +720,10 @@ SOFTWARE.
 [emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [emqx-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [emqx-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-example]: https://github.com/hassio-addons/addon-example/tree/v7.0.3
-[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v7.0.3/README.md
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/v7.0.4
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v7.0.4/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-v7.0.3-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-v7.0.4-blue.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -918,10 +918,10 @@ SOFTWARE.
 [thelounge-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [thelounge-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [thelounge-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/v4.2.0
-[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/v4.2.0/README.md
+[addon-tor]: https://github.com/hassio-addons/addon-tor/tree/v4.3.0
+[addon-doc-tor]: https://github.com/hassio-addons/addon-tor/blob/v4.3.0/README.md
 [tor-issue]: https://github.com/hassio-addons/addon-tor/issues
-[tor-version-shield]: https://img.shields.io/badge/version-v4.2.0-blue.svg
+[tor-version-shield]: https://img.shields.io/badge/version-v4.3.0-blue.svg
 [tor-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [tor-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
@@ -990,10 +990,10 @@ SOFTWARE.
 [zerotier-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [zerotier-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [zerotier-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/v2.6.1
-[addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/v2.6.1/README.md
+[addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/v2.6.2
+[addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/v2.6.2/README.md
 [chrony-issue]: https://github.com/hassio-addons/addon-chrony/issues
-[chrony-version-shield]: https://img.shields.io/badge/version-v2.6.1-blue.svg
+[chrony-version-shield]: https://img.shields.io/badge/version-v2.6.2-blue.svg
 [chrony-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [chrony-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [chrony-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
