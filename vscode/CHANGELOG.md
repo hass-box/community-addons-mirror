@@ -1,6 +1,5 @@
 ## What’s changed
 
-## ⬆️ Dependency updates
+## 🐛 Bug fixes
 
-- ⬆️ Update esphome to v2023.10.1 @renovate ([#723](https://github.com/hassio-addons/addon-vscode/pull/723))
-- ⬆️ Update cdr/code-server to v4.18.0 @renovate ([#725](https://github.com/hassio-addons/addon-vscode/pull/725))
+- Fix init-user script @frenck ([#734](https://github.com/hassio-addons/addon-vscode/pull/734))
