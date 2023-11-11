@@ -666,10 +666,10 @@ SOFTWARE.
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [adguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/v16.0.0
-[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/v16.0.0/README.md
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/v16.0.1
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/v16.0.1/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-v16.0.0-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-v16.0.1-blue.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -873,10 +873,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/v5.14.1
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/v5.14.1/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/v5.14.2
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/v5.14.2/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-v5.14.1-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-v5.14.2-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
