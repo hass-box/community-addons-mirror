@@ -657,10 +657,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.0.0
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.0.0/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.0.1
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.0.1/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-v5.0.0-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-v5.0.1-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -963,15 +963,15 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/v0.9.0
-[addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/v0.9.0/README.md
+[addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/v0.10.1
+[addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/v0.10.1/README.md
 [wireguard-issue]: https://github.com/hassio-addons/addon-wireguard/issues
-[wireguard-version-shield]: https://img.shields.io/badge/version-v0.9.0-blue.svg
+[wireguard-version-shield]: https://img.shields.io/badge/version-v0.10.1-blue.svg
 [wireguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [wireguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[wireguard-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[wireguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [wireguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[wireguard-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[wireguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/v3.0.2
 [addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/v3.0.2/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/addon-zwave-js-ui/issues
