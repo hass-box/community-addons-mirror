@@ -204,19 +204,6 @@ ERP beyond your fridge! A groceries & household management solution for your hom
 
 [:books: Grocy add-on documentation][addon-doc-grocy]
 
-### &#10003; [Home Panel][addon-home-panel]
-
-![Latest Version][home-panel-version-shield]
-![Supports armhf Architecture][home-panel-armhf-shield]
-![Supports armv7 Architecture][home-panel-armv7-shield]
-![Supports aarch64 Architecture][home-panel-aarch64-shield]
-![Supports amd64 Architecture][home-panel-amd64-shield]
-![Supports i386 Architecture][home-panel-i386-shield]
-
-A web frontend for controlling the home
-
-[:books: Home Panel add-on documentation][addon-doc-home-panel]
-
 ### &#10003; [InfluxDB][addon-influxdb]
 
 ![Latest Version][influxdb-version-shield]
@@ -593,7 +580,6 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Glances][glances-issue]
 - [Open an issue for the add-on: Grafana][grafana-issue]
 - [Open an issue for the add-on: Grocy][grocy-issue]
-- [Open an issue for the add-on: Home Panel][home-panel-issue]
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: JupyterLab][jupyterlab-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
@@ -637,7 +623,7 @@ For questions, please contact [Franck Nijhof][frenck]:
 
 MIT License
 
-Copyright (c) 2017-2023 Franck Nijhof
+Copyright (c) 2017-2024 Franck Nijhof
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -657,10 +643,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.0.1
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.0.1/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.0.2
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.0.2/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-v5.0.1-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-v5.0.2-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -675,28 +661,28 @@ SOFTWARE.
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [ssh-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [ssh-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/v4.0.1
-[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/v4.0.1/README.md
+[addon-aircast]: https://github.com/hassio-addons/addon-aircast/tree/v4.1.0
+[addon-doc-aircast]: https://github.com/hassio-addons/addon-aircast/blob/v4.1.0/README.md
 [aircast-issue]: https://github.com/hassio-addons/addon-aircast/issues
-[aircast-version-shield]: https://img.shields.io/badge/version-v4.0.1-blue.svg
+[aircast-version-shield]: https://img.shields.io/badge/version-v4.1.0-blue.svg
 [aircast-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [aircast-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [aircast-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [aircast-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [aircast-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/v4.0.1
-[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/v4.0.1/README.md
+[addon-airsonos]: https://github.com/hassio-addons/addon-airsonos/tree/v4.1.0
+[addon-doc-airsonos]: https://github.com/hassio-addons/addon-airsonos/blob/v4.1.0/README.md
 [airsonos-issue]: https://github.com/hassio-addons/addon-airsonos/issues
-[airsonos-version-shield]: https://img.shields.io/badge/version-v4.0.1-blue.svg
+[airsonos-version-shield]: https://img.shields.io/badge/version-v4.1.0-blue.svg
 [airsonos-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [airsonos-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [airsonos-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [airsonos-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/v0.16.0
-[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/v0.16.0/README.md
+[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/v0.16.1
+[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/v0.16.1/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/addon-appdaemon/issues
-[appdaemon-version-shield]: https://img.shields.io/badge/version-v0.16.0-blue.svg
+[appdaemon-version-shield]: https://img.shields.io/badge/version-v0.16.1-blue.svg
 [appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -720,10 +706,10 @@ SOFTWARE.
 [emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [emqx-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [emqx-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-example]: https://github.com/hassio-addons/addon-example/tree/v8.0.1
-[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v8.0.1/README.md
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/v8.0.2
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v8.0.2/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-v8.0.1-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-v8.0.2-blue.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -774,15 +760,6 @@ SOFTWARE.
 [grocy-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [grocy-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [grocy-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-home-panel]: https://github.com/hassio-addons/addon-home-panel/tree/v2.7.0
-[addon-doc-home-panel]: https://github.com/hassio-addons/addon-home-panel/blob/v2.7.0/README.md
-[home-panel-issue]: https://github.com/hassio-addons/addon-home-panel/issues
-[home-panel-version-shield]: https://img.shields.io/badge/version-v2.7.0-blue.svg
-[home-panel-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[home-panel-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[home-panel-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
-[home-panel-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[home-panel-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [addon-influxdb]: https://github.com/hassio-addons/addon-influxdb/tree/v4.8.0
 [addon-doc-influxdb]: https://github.com/hassio-addons/addon-influxdb/blob/v4.8.0/README.md
 [influxdb-issue]: https://github.com/hassio-addons/addon-influxdb/issues
@@ -837,10 +814,10 @@ SOFTWARE.
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v16.0.2
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v16.0.2/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v17.0.0
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v17.0.0/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-v16.0.2-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-v17.0.0-blue.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -927,10 +904,10 @@ SOFTWARE.
 [tor-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [tor-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [tor-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/v0.23.1
-[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/v0.23.1/README.md
+[addon-traccar]: https://github.com/hassio-addons/addon-traccar/tree/v0.23.2
+[addon-doc-traccar]: https://github.com/hassio-addons/addon-traccar/blob/v0.23.2/README.md
 [traccar-issue]: https://github.com/hassio-addons/addon-traccar/issues
-[traccar-version-shield]: https://img.shields.io/badge/version-v0.23.1-blue.svg
+[traccar-version-shield]: https://img.shields.io/badge/version-v0.23.2-blue.svg
 [traccar-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [traccar-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -981,15 +958,15 @@ SOFTWARE.
 [zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [zwave-js-ui-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [zwave-js-ui-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/v0.17.3
-[addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/v0.17.3/README.md
+[addon-zerotier]: https://github.com/hassio-addons/addon-zerotier/tree/v0.18.0
+[addon-doc-zerotier]: https://github.com/hassio-addons/addon-zerotier/blob/v0.18.0/README.md
 [zerotier-issue]: https://github.com/hassio-addons/addon-zerotier/issues
-[zerotier-version-shield]: https://img.shields.io/badge/version-v0.17.3-blue.svg
+[zerotier-version-shield]: https://img.shields.io/badge/version-v0.18.0-blue.svg
 [zerotier-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zerotier-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[zerotier-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[zerotier-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [zerotier-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[zerotier-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[zerotier-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-chrony]: https://github.com/hassio-addons/addon-chrony/tree/v3.0.0
 [addon-doc-chrony]: https://github.com/hassio-addons/addon-chrony/blob/v3.0.0/README.md
 [chrony-issue]: https://github.com/hassio-addons/addon-chrony/issues
@@ -1030,7 +1007,7 @@ SOFTWARE.
 [gitlabci]: https://gitlab.com/hassio-addons/repository/pipelines
 [issue]: https://github.com/hassio-addons/repository/issues
 [license-shield]: https://img.shields.io/github/license/hassio-addons/repository.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [reddit]: https://reddit.com/r/homeassistant
 [semver]: http://semver.org/spec/v2.0.0.html
