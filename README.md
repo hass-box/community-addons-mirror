@@ -230,6 +230,19 @@ Create documents containing live code, equations, visualizations, and explanator
 
 [:books: JupyterLab add-on documentation][addon-doc-jupyterlab]
 
+### &#10003; [Lidarr][addon-lidarr]
+
+![Latest Version][lidarr-version-shield]
+![Supports armhf Architecture][lidarr-armhf-shield]
+![Supports armv7 Architecture][lidarr-armv7-shield]
+![Supports aarch64 Architecture][lidarr-aarch64-shield]
+![Supports amd64 Architecture][lidarr-amd64-shield]
+![Supports i386 Architecture][lidarr-i386-shield]
+
+Looks and smells like Sonarr but made for music
+
+[:books: Lidarr add-on documentation][addon-doc-lidarr]
+
 ### &#10003; [Log Viewer][addon-log-viewer]
 
 ![Latest Version][log-viewer-version-shield]
@@ -308,6 +321,58 @@ Recorded media, live TV, online news, and podcasts ready to stream.
 
 [:books: Plex Media Server add-on documentation][addon-doc-plex]
 
+### &#10003; [Prowlarr][addon-prowlarr]
+
+![Latest Version][prowlarr-version-shield]
+![Supports armhf Architecture][prowlarr-armhf-shield]
+![Supports armv7 Architecture][prowlarr-armv7-shield]
+![Supports aarch64 Architecture][prowlarr-aarch64-shield]
+![Supports amd64 Architecture][prowlarr-amd64-shield]
+![Supports i386 Architecture][prowlarr-i386-shield]
+
+Indexer manager/proxy built on the popular arr stack to integrate with your various PVR apps
+
+[:books: Prowlarr add-on documentation][addon-doc-prowlarr]
+
+### &#10003; [Radarr][addon-radarr]
+
+![Latest Version][radarr-version-shield]
+![Supports armhf Architecture][radarr-armhf-shield]
+![Supports armv7 Architecture][radarr-armv7-shield]
+![Supports aarch64 Architecture][radarr-aarch64-shield]
+![Supports amd64 Architecture][radarr-amd64-shield]
+![Supports i386 Architecture][radarr-i386-shield]
+
+Movie organizer/manager for usenet and torrent users
+
+[:books: Radarr add-on documentation][addon-doc-radarr]
+
+### &#10003; [Readarr][addon-readarr]
+
+![Latest Version][readarr-version-shield]
+![Supports armhf Architecture][readarr-armhf-shield]
+![Supports armv7 Architecture][readarr-armv7-shield]
+![Supports aarch64 Architecture][readarr-aarch64-shield]
+![Supports amd64 Architecture][readarr-amd64-shield]
+![Supports i386 Architecture][readarr-i386-shield]
+
+Book Manager and Automation (Sonarr for Ebooks)
+
+[:books: Readarr add-on documentation][addon-doc-readarr]
+
+### &#10003; [SABnzbd][addon-sabnzbd]
+
+![Latest Version][sabnzbd-version-shield]
+![Supports armhf Architecture][sabnzbd-armhf-shield]
+![Supports armv7 Architecture][sabnzbd-armv7-shield]
+![Supports aarch64 Architecture][sabnzbd-aarch64-shield]
+![Supports amd64 Architecture][sabnzbd-amd64-shield]
+![Supports i386 Architecture][sabnzbd-i386-shield]
+
+Free and easy binary newsreader
+
+[:books: SABnzbd add-on documentation][addon-doc-sabnzbd]
+
 ### &#10003; [SQLite Web][addon-sqlite-web]
 
 ![Latest Version][sqlite-web-version-shield]
@@ -320,6 +385,19 @@ Recorded media, live TV, online news, and podcasts ready to stream.
 Explore your SQLite database
 
 [:books: SQLite Web add-on documentation][addon-doc-sqlite-web]
+
+### &#10003; [Sonarr][addon-sonarr]
+
+![Latest Version][sonarr-version-shield]
+![Supports armhf Architecture][sonarr-armhf-shield]
+![Supports armv7 Architecture][sonarr-armv7-shield]
+![Supports aarch64 Architecture][sonarr-aarch64-shield]
+![Supports amd64 Architecture][sonarr-amd64-shield]
+![Supports i386 Architecture][sonarr-i386-shield]
+
+Smart PVR for newsgroup and bittorrent users
+
+[:books: Sonarr add-on documentation][addon-doc-sonarr]
 
 ### &#10003; [Spotify Connect][addon-spotify]
 
@@ -464,6 +542,19 @@ Open source password management solution
 
 [:books: Vaultwarden (Bitwarden) add-on documentation][addon-doc-bitwarden]
 
+### &#10003; [Whisparr][addon-whisparr]
+
+![Latest Version][whisparr-version-shield]
+![Supports armhf Architecture][whisparr-armhf-shield]
+![Supports armv7 Architecture][whisparr-armv7-shield]
+![Supports aarch64 Architecture][whisparr-aarch64-shield]
+![Supports amd64 Architecture][whisparr-amd64-shield]
+![Supports i386 Architecture][whisparr-i386-shield]
+
+Whisparr is an adult video collection manager for Usenet and BitTorrent users
+
+[:books: Whisparr add-on documentation][addon-doc-whisparr]
+
 ### &#10003; [WireGuard][addon-wireguard]
 
 ![Latest Version][wireguard-version-shield]
@@ -582,13 +673,19 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: Grocy][grocy-issue]
 - [Open an issue for the add-on: InfluxDB][influxdb-issue]
 - [Open an issue for the add-on: JupyterLab][jupyterlab-issue]
+- [Open an issue for the add-on: Lidarr][lidarr-issue]
 - [Open an issue for the add-on: Log Viewer][log-viewer-issue]
 - [Open an issue for the add-on: MQTT IO][mqtt-io-issue]
 - [Open an issue for the add-on: Network UPS Tools][nut-issue]
 - [Open an issue for the add-on: Nginx Proxy Manager][nginxproxymanager-issue]
 - [Open an issue for the add-on: Node-RED][node-red-issue]
 - [Open an issue for the add-on: Plex Media Server][plex-issue]
+- [Open an issue for the add-on: Prowlarr][prowlarr-issue]
+- [Open an issue for the add-on: Radarr][radarr-issue]
+- [Open an issue for the add-on: Readarr][readarr-issue]
+- [Open an issue for the add-on: SABnzbd][sabnzbd-issue]
 - [Open an issue for the add-on: SQLite Web][sqlite-web-issue]
+- [Open an issue for the add-on: Sonarr][sonarr-issue]
 - [Open an issue for the add-on: Spotify Connect][spotify-issue]
 - [Open an issue for the add-on: Studio Code Server][vscode-issue]
 - [Open an issue for the add-on: Tailscale][tailscale-issue]
@@ -600,6 +697,7 @@ on the correct GitHub repository matching the add-on.
 - [Open an issue for the add-on: UniFi Network Application][unifi-issue]
 - [Open an issue for the add-on: Uptime Kuma][uptime-kuma-issue]
 - [Open an issue for the add-on: Vaultwarden (Bitwarden)][bitwarden-issue]
+- [Open an issue for the add-on: Whisparr][whisparr-issue]
 - [Open an issue for the add-on: WireGuard][wireguard-issue]
 - [Open an issue for the add-on: Z-Wave JS UI][zwave-js-ui-issue]
 - [Open an issue for the add-on: ZeroTier One][zerotier-issue]
@@ -778,6 +876,15 @@ SOFTWARE.
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [jupyterlab-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [jupyterlab-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-lidarr]: https://github.com/hassio-addons/addon-lidarr/tree/v0.1.0
+[addon-doc-lidarr]: https://github.com/hassio-addons/addon-lidarr/blob/v0.1.0/README.md
+[lidarr-issue]: https://github.com/hassio-addons/addon-lidarr/issues
+[lidarr-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[lidarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[lidarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[lidarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[lidarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[lidarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/tree/v0.17.0
 [addon-doc-log-viewer]: https://github.com/hassio-addons/addon-log-viewer/blob/v0.17.0/README.md
 [log-viewer-issue]: https://github.com/hassio-addons/addon-log-viewer/issues
@@ -805,10 +912,10 @@ SOFTWARE.
 [nut-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nut-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nut-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/v1.0.0
-[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/v1.0.0/README.md
+[addon-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/tree/v1.0.1
+[addon-doc-nginxproxymanager]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/v1.0.1/README.md
 [nginxproxymanager-issue]: https://github.com/hassio-addons/addon-nginx-proxy-manager/issues
-[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-v1.0.0-blue.svg
+[nginxproxymanager-version-shield]: https://img.shields.io/badge/version-v1.0.1-blue.svg
 [nginxproxymanager-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [nginxproxymanager-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -832,6 +939,42 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/tree/v0.1.0
+[addon-doc-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/blob/v0.1.0/README.md
+[prowlarr-issue]: https://github.com/hassio-addons/addon-prowlarr/issues
+[prowlarr-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[prowlarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[prowlarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[prowlarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[prowlarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[prowlarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-radarr]: https://github.com/hassio-addons/addon-radarr/tree/v0.1.0
+[addon-doc-radarr]: https://github.com/hassio-addons/addon-radarr/blob/v0.1.0/README.md
+[radarr-issue]: https://github.com/hassio-addons/addon-radarr/issues
+[radarr-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[radarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[radarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[radarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[radarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-readarr]: https://github.com/hassio-addons/addon-readarr/tree/v0.1.0
+[addon-doc-readarr]: https://github.com/hassio-addons/addon-readarr/blob/v0.1.0/README.md
+[readarr-issue]: https://github.com/hassio-addons/addon-readarr/issues
+[readarr-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[readarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[readarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[readarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[readarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[readarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/tree/v0.1.0
+[addon-doc-sabnzbd]: https://github.com/hassio-addons/addon-sabnzbd/blob/v0.1.0/README.md
+[sabnzbd-issue]: https://github.com/hassio-addons/addon-sabnzbd/issues
+[sabnzbd-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[sabnzbd-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[sabnzbd-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[sabnzbd-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[sabnzbd-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[sabnzbd-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/tree/v4.1.0
 [addon-doc-sqlite-web]: https://github.com/hassio-addons/addon-sqlite-web/blob/v4.1.0/README.md
 [sqlite-web-issue]: https://github.com/hassio-addons/addon-sqlite-web/issues
@@ -841,6 +984,15 @@ SOFTWARE.
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-sonarr]: https://github.com/hassio-addons/addon-sonarr/tree/v0.1.0
+[addon-doc-sonarr]: https://github.com/hassio-addons/addon-sonarr/blob/v0.1.0/README.md
+[sonarr-issue]: https://github.com/hassio-addons/addon-sonarr/issues
+[sonarr-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[sonarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[sonarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[sonarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[sonarr-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
+[sonarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-spotify]: https://github.com/hassio-addons/addon-spotify-connect/tree/v0.13.0
 [addon-doc-spotify]: https://github.com/hassio-addons/addon-spotify-connect/blob/v0.13.0/README.md
 [spotify-issue]: https://github.com/hassio-addons/addon-spotify-connect/issues
@@ -940,6 +1092,15 @@ SOFTWARE.
 [bitwarden-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bitwarden-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bitwarden-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
+[addon-whisparr]: https://github.com/hassio-addons/addon-whisparr/tree/v0.1.0
+[addon-doc-whisparr]: https://github.com/hassio-addons/addon-whisparr/blob/v0.1.0/README.md
+[whisparr-issue]: https://github.com/hassio-addons/addon-whisparr/issues
+[whisparr-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[whisparr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[whisparr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[whisparr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
+[whisparr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[whisparr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-wireguard]: https://github.com/hassio-addons/addon-wireguard/tree/v0.10.2
 [addon-doc-wireguard]: https://github.com/hassio-addons/addon-wireguard/blob/v0.10.2/README.md
 [wireguard-issue]: https://github.com/hassio-addons/addon-wireguard/issues
