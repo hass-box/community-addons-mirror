@@ -29,13 +29,6 @@ jobs:
                 slug=$(cat $d/config.yaml | grep -Po '(^slug:).*' | sed 's/slug://g' | sed 's/^[ \t]*//g' | sed 's/"//g')
                 image=$(cat $d/config.yaml | grep -Po '(^image:).*' | sed 's/image://g' | sed 's/^[ \t]*//g' | sed 's/"//g')
                 slug_image+=("{\"slug\": \"$slug\", \"image\": \"$image\", \"version\": \"$version\", \"name\": \"$name\"}")
-
-                if [[ $image = ghcr.io* ]]; then
-                  new_image=${image/ghcr.io/ghcr.dockerproxy.com}
-                else
-                  new_image="dockerproxy.com/$image"
-                fi
-                sed -i "s|$image|$new_image|g" $d/config.yaml
               fi
               if [ -f "$d/config.json" ]; then
                 name=$(cat "$d/config.json" | jq -r ".name")
@@ -43,13 +36,6 @@ jobs:
                 slug=$(cat "$d/config.json" | jq -r ".slug")
                 image=$(cat "$d/config.json" | jq -r ".image")
                 slug_image+=("{\"slug\": \"$slug\", \"image\": \"$image\", \"version\": \"$version\", \"name\": \"$name\"}")
-
-                if [[ $image = ghcr.io* ]]; then
-                  new_image=${image/ghcr.io/ghcr.dockerproxy.com}
-                else
-                  new_image="dockerproxy.com/$image"
-                fi
-                sed -i "s|$image|$new_image|g" $d/config.json
               fi
           done
           shopt -s extglob
@@ -60,8 +46,6 @@ jobs:
 
           S=$(IFS=,; echo "${slug_image[*]}")
           echo "[$S]" > addons.json
-          echo '{"name":"Home Assistant Community Add-ons 代理加速","url":"https://addons.community","maintainer":"Franck Nijhof <frenck@addons.community>"}' > repository.json
-
 
       - name: Commit files
         run: |
