@@ -26,4 +26,4 @@ schema:
   - str
   init_commands:
   - str
-image: ghcr.dockerproxy.com/hassio-addons/jupyterlab/{arch}
+image: ghcr.io/hassio-addons/jupyterlab/{arch}

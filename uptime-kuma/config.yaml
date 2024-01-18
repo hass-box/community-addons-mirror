@@ -14,4 +14,4 @@ ports:
   3001/tcp: 3001
 ports_description:
   3001/tcp: Web interface
-image: ghcr.dockerproxy.com/hassio-addons/uptime-kuma/{arch}
+image: ghcr.io/hassio-addons/uptime-kuma/{arch}

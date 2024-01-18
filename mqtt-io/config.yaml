@@ -23,4 +23,4 @@ options:
 schema:
   configuration_file: str
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
-image: ghcr.dockerproxy.com/hassio-addons/mqtt-io/{arch}
+image: ghcr.io/hassio-addons/mqtt-io/{arch}

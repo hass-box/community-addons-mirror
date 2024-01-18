@@ -16,4 +16,4 @@ ports:
 ports_description:
   7396/tcp: Web interface
   36330/tcp: Remote command interface
-image: ghcr.dockerproxy.com/hassio-addons/foldingathome/{arch}
+image: ghcr.io/hassio-addons/foldingathome/{arch}

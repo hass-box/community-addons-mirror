@@ -26,4 +26,4 @@ schema:
   certfile: str
   keyfile: str
   request_size_limit: int?
-image: ghcr.dockerproxy.com/hassio-addons/bitwarden/{arch}
+image: ghcr.io/hassio-addons/bitwarden/{arch}

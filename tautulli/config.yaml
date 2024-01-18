@@ -20,4 +20,4 @@ map:
 - backup:rw
 schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
-image: ghcr.dockerproxy.com/hassio-addons/tautulli/{arch}
+image: ghcr.io/hassio-addons/tautulli/{arch}

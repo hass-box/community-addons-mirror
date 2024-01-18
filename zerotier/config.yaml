@@ -31,4 +31,4 @@ schema:
   - match(^!secret [a-zA-Z0-9_\-]+$|[0-9a-z]{16})
   api_auth_token: str
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
-image: ghcr.dockerproxy.com/hassio-addons/zerotier/{arch}
+image: ghcr.io/hassio-addons/zerotier/{arch}

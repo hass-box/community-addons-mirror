@@ -16,4 +16,4 @@ map:
 - media:rw
 ports:
   8686/tcp: 8686
-image: ghcr.dockerproxy.com/hassio-addons/lidarr/{arch}
+image: ghcr.io/hassio-addons/lidarr/{arch}

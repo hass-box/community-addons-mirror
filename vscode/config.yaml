@@ -39,4 +39,4 @@ schema:
   - str
   init_commands:
   - str
-image: ghcr.dockerproxy.com/hassio-addons/vscode/{arch}
+image: ghcr.io/hassio-addons/vscode/{arch}

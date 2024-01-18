@@ -17,4 +17,4 @@ map:
 - media:rw
 ports:
   6969/tcp: 6969
-image: ghcr.dockerproxy.com/hassio-addons/whisparr/{arch}
+image: ghcr.io/hassio-addons/whisparr/{arch}

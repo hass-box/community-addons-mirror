@@ -76,4 +76,4 @@ schema:
     share: bool
     ssl: bool
   i_like_to_be_pwned: bool?
-image: ghcr.dockerproxy.com/hassio-addons/ftp/{arch}
+image: ghcr.io/hassio-addons/ftp/{arch}

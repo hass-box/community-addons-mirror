@@ -19,4 +19,4 @@ map:
 - addon_config:rw
 backup_exclude:
 - '*/logs'
-image: ghcr.dockerproxy.com/hassio-addons/nginxproxymanager/{arch}
+image: ghcr.io/hassio-addons/nginxproxymanager/{arch}

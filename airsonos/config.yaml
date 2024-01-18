@@ -27,4 +27,4 @@ schema:
   latency_rtp: int
   latency_http: int
   drift: bool
-image: ghcr.dockerproxy.com/hassio-addons/airsonos/{arch}
+image: ghcr.io/hassio-addons/airsonos/{arch}

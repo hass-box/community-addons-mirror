@@ -38,4 +38,4 @@ schema:
   envvars:
   - name: str
     value: str
-image: ghcr.dockerproxy.com/hassio-addons/bookstack/{arch}
+image: ghcr.io/hassio-addons/bookstack/{arch}

@@ -66,4 +66,4 @@ schema:
     endpoint: str?
     pre_shared_key: str?
     fwmark: str?
-image: ghcr.dockerproxy.com/hassio-addons/wireguard/{arch}
+image: ghcr.io/hassio-addons/wireguard/{arch}

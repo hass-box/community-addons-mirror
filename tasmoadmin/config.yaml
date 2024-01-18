@@ -26,4 +26,4 @@ schema:
   ssl: bool
   certfile: str
   keyfile: str
-image: ghcr.dockerproxy.com/hassio-addons/tasmoadmin/{arch}
+image: ghcr.io/hassio-addons/tasmoadmin/{arch}

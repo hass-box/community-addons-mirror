@@ -20,4 +20,4 @@ schema:
   bitrate: list(96|160|320)
   username: str?
   password: password?
-image: ghcr.dockerproxy.com/hassio-addons/spotify/{arch}
+image: ghcr.io/hassio-addons/spotify/{arch}

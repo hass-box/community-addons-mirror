@@ -31,4 +31,4 @@ schema:
   ntp_server:
   - str?
   mode: list(pool|server)
-image: ghcr.dockerproxy.com/hassio-addons/chrony/{arch}
+image: ghcr.io/hassio-addons/chrony/{arch}

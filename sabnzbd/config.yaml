@@ -18,4 +18,4 @@ map:
 - media:rw
 ports:
   8080/tcp: null
-image: ghcr.dockerproxy.com/hassio-addons/sabnzbd/{arch}
+image: ghcr.io/hassio-addons/sabnzbd/{arch}

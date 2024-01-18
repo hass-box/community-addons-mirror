@@ -40,4 +40,4 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   memory_max: int?
   memory_init: int?
-image: ghcr.dockerproxy.com/hassio-addons/unifi/{arch}
+image: ghcr.io/hassio-addons/unifi/{arch}

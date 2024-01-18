@@ -44,4 +44,4 @@ schema:
   env_vars:
   - name: match(^GF_([A-Z0-9_])+$)
     value: str
-image: ghcr.dockerproxy.com/hassio-addons/grafana/{arch}
+image: ghcr.io/hassio-addons/grafana/{arch}

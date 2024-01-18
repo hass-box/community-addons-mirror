@@ -17,4 +17,4 @@ map:
 - share:rw
 schema:
   database: str?
-image: ghcr.dockerproxy.com/hassio-addons/sqlite-web/{arch}
+image: ghcr.io/hassio-addons/sqlite-web/{arch}

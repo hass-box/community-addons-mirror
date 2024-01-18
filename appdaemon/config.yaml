@@ -34,4 +34,4 @@ schema:
   - str
   init_commands:
   - str
-image: ghcr.dockerproxy.com/hassio-addons/appdaemon/{arch}
+image: ghcr.io/hassio-addons/appdaemon/{arch}

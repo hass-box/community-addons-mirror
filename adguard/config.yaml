@@ -41,4 +41,4 @@ schema:
   leave_front_door_open: bool?
 backup_exclude:
 - '*/adguard/data/querylog.*'
-image: ghcr.dockerproxy.com/hassio-addons/adguard/{arch}
+image: ghcr.io/hassio-addons/adguard/{arch}

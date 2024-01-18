@@ -31,4 +31,4 @@ schema:
   ssl: bool
   certfile: str
   keyfile: str
-image: ghcr.dockerproxy.com/hassio-addons/traccar/{arch}
+image: ghcr.io/hassio-addons/traccar/{arch}
