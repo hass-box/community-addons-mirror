@@ -769,10 +769,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.0.2
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.0.2/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.0.3
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.0.3/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-v5.0.2-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-v5.0.3-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -904,10 +904,10 @@ SOFTWARE.
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [influxdb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/tree/v0.13.1
-[addon-doc-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/blob/v0.13.1/README.md
+[addon-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/tree/v0.14.0
+[addon-doc-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/blob/v0.14.0/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/addon-jupyterlab/issues
-[jupyterlab-version-shield]: https://img.shields.io/badge/version-v0.13.1-blue.svg
+[jupyterlab-version-shield]: https://img.shields.io/badge/version-v0.14.0-blue.svg
 [jupyterlab-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlab-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -958,10 +958,10 @@ SOFTWARE.
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v17.0.4
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v17.0.4/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v17.0.5
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v17.0.5/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-v17.0.4-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-v17.0.5-blue.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1156,10 +1156,10 @@ SOFTWARE.
 [wireguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [wireguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [wireguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/v3.3.1
-[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/v3.3.1/README.md
+[addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/v3.3.2
+[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/v3.3.2/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/addon-zwave-js-ui/issues
-[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-v3.3.1-blue.svg
+[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-v3.3.2-blue.svg
 [zwave-js-ui-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zwave-js-ui-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
