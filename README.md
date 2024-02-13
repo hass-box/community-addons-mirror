@@ -958,10 +958,10 @@ SOFTWARE.
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v17.0.6
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v17.0.6/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v17.0.7
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v17.0.7/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-v17.0.6-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-v17.0.7-blue.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -985,10 +985,10 @@ SOFTWARE.
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [plex-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [plex-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/tree/v0.1.0
-[addon-doc-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/blob/v0.1.0/README.md
+[addon-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/tree/v0.2.0
+[addon-doc-prowlarr]: https://github.com/hassio-addons/addon-prowlarr/blob/v0.2.0/README.md
 [prowlarr-issue]: https://github.com/hassio-addons/addon-prowlarr/issues
-[prowlarr-version-shield]: https://img.shields.io/badge/version-v0.1.0-blue.svg
+[prowlarr-version-shield]: https://img.shields.io/badge/version-v0.2.0-blue.svg
 [prowlarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [prowlarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [prowlarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
