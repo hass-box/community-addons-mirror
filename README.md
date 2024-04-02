@@ -832,10 +832,10 @@ SOFTWARE.
 [bookstack-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [bookstack-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [bookstack-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-emqx]: https://github.com/hassio-addons/addon-emqx/tree/v0.4.1
-[addon-doc-emqx]: https://github.com/hassio-addons/addon-emqx/blob/v0.4.1/README.md
+[addon-emqx]: https://github.com/hassio-addons/addon-emqx/tree/v0.5.0
+[addon-doc-emqx]: https://github.com/hassio-addons/addon-emqx/blob/v0.5.0/README.md
 [emqx-issue]: https://github.com/hassio-addons/addon-emqx/issues
-[emqx-version-shield]: https://img.shields.io/badge/version-v0.4.1-blue.svg
+[emqx-version-shield]: https://img.shields.io/badge/version-v0.5.0-blue.svg
 [emqx-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [emqx-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1030,10 +1030,10 @@ SOFTWARE.
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sonarr]: https://github.com/hassio-addons/addon-sonarr/tree/v0.1.2
-[addon-doc-sonarr]: https://github.com/hassio-addons/addon-sonarr/blob/v0.1.2/README.md
+[addon-sonarr]: https://github.com/hassio-addons/addon-sonarr/tree/v0.1.3
+[addon-doc-sonarr]: https://github.com/hassio-addons/addon-sonarr/blob/v0.1.3/README.md
 [sonarr-issue]: https://github.com/hassio-addons/addon-sonarr/issues
-[sonarr-version-shield]: https://img.shields.io/badge/version-v0.1.2-blue.svg
+[sonarr-version-shield]: https://img.shields.io/badge/version-v0.1.3-blue.svg
 [sonarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sonarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sonarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
