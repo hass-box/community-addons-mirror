@@ -904,10 +904,10 @@ SOFTWARE.
 [influxdb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [influxdb-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [influxdb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/tree/v0.14.4
-[addon-doc-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/blob/v0.14.4/README.md
+[addon-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/tree/v0.14.5
+[addon-doc-jupyterlab]: https://github.com/hassio-addons/addon-jupyterlab/blob/v0.14.5/README.md
 [jupyterlab-issue]: https://github.com/hassio-addons/addon-jupyterlab/issues
-[jupyterlab-version-shield]: https://img.shields.io/badge/version-v0.14.4-blue.svg
+[jupyterlab-version-shield]: https://img.shields.io/badge/version-v0.14.5-blue.svg
 [jupyterlab-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [jupyterlab-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [jupyterlab-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1156,10 +1156,10 @@ SOFTWARE.
 [wireguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [wireguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [wireguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/v3.5.0
-[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/v3.5.0/README.md
+[addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/v3.6.0
+[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/v3.6.0/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/addon-zwave-js-ui/issues
-[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-v3.5.0-blue.svg
+[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-v3.6.0-blue.svg
 [zwave-js-ui-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zwave-js-ui-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
