@@ -769,10 +769,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.0.7
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.0.7/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.0.8
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.0.8/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-v5.0.7-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-v5.0.8-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -805,10 +805,10 @@ SOFTWARE.
 [airsonos-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [airsonos-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [airsonos-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/v0.16.5
-[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/v0.16.5/README.md
+[addon-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/tree/v0.16.6
+[addon-doc-appdaemon]: https://github.com/hassio-addons/addon-appdaemon/blob/v0.16.6/README.md
 [appdaemon-issue]: https://github.com/hassio-addons/addon-appdaemon/issues
-[appdaemon-version-shield]: https://img.shields.io/badge/version-v0.16.5-blue.svg
+[appdaemon-version-shield]: https://img.shields.io/badge/version-v0.16.6-blue.svg
 [appdaemon-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [appdaemon-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [appdaemon-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
