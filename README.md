@@ -958,10 +958,10 @@ SOFTWARE.
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v18.0.1
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v18.0.1/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v18.0.2
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v18.0.2/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-v18.0.1-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-v18.0.2-blue.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1030,10 +1030,10 @@ SOFTWARE.
 [sqlite-web-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [sqlite-web-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [sqlite-web-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-sonarr]: https://github.com/hassio-addons/addon-sonarr/tree/v0.2.0
-[addon-doc-sonarr]: https://github.com/hassio-addons/addon-sonarr/blob/v0.2.0/README.md
+[addon-sonarr]: https://github.com/hassio-addons/addon-sonarr/tree/v0.2.1
+[addon-doc-sonarr]: https://github.com/hassio-addons/addon-sonarr/blob/v0.2.1/README.md
 [sonarr-issue]: https://github.com/hassio-addons/addon-sonarr/issues
-[sonarr-version-shield]: https://img.shields.io/badge/version-v0.2.0-blue.svg
+[sonarr-version-shield]: https://img.shields.io/badge/version-v0.2.1-blue.svg
 [sonarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sonarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sonarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
