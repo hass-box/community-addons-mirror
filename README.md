@@ -994,10 +994,10 @@ SOFTWARE.
 [prowlarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [prowlarr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [prowlarr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-radarr]: https://github.com/hassio-addons/addon-radarr/tree/v0.6.0
-[addon-doc-radarr]: https://github.com/hassio-addons/addon-radarr/blob/v0.6.0/README.md
+[addon-radarr]: https://github.com/hassio-addons/addon-radarr/tree/v0.7.0
+[addon-doc-radarr]: https://github.com/hassio-addons/addon-radarr/blob/v0.7.0/README.md
 [radarr-issue]: https://github.com/hassio-addons/addon-radarr/issues
-[radarr-version-shield]: https://img.shields.io/badge/version-v0.6.0-blue.svg
+[radarr-version-shield]: https://img.shields.io/badge/version-v0.7.0-blue.svg
 [radarr-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [radarr-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [radarr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1156,10 +1156,10 @@ SOFTWARE.
 [wireguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [wireguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [wireguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/v3.9.1
-[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/v3.9.1/README.md
+[addon-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/tree/v3.9.2
+[addon-doc-zwave-js-ui]: https://github.com/hassio-addons/addon-zwave-js-ui/blob/v3.9.2/README.md
 [zwave-js-ui-issue]: https://github.com/hassio-addons/addon-zwave-js-ui/issues
-[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-v3.9.1-blue.svg
+[zwave-js-ui-version-shield]: https://img.shields.io/badge/version-v3.9.2-blue.svg
 [zwave-js-ui-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [zwave-js-ui-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [zwave-js-ui-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
