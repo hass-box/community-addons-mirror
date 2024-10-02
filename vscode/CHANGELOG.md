@@ -1,5 +1,5 @@
 ## What’s changed
 
-## ⬆️ Dependency updates
+## 🐛 Bug fixes
 
-- ⬆️ Update keesschollaart81/vscode-home-assistant to v1.41.2 @frenck ([#869](https://github.com/hassio-addons/addon-vscode/pull/869))
+- Add back symbolic link to /homeassistant for customized workspaces @frenck ([#874](https://github.com/hassio-addons/addon-vscode/pull/874))
