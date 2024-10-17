@@ -2,4 +2,4 @@
 
 ## ⬆️ Dependency updates
 
-- ⬆️ Update Add-on base image to v16.3.2 @renovate ([#410](https://github.com/hassio-addons/addon-tailscale/pull/410))
+- ⬆️ Update tailscale/tailscale to v1.76.1 @renovate ([#417](https://github.com/hassio-addons/addon-tailscale/pull/417))
