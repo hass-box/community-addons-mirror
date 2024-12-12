@@ -769,10 +769,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.2.0
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.2.0/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.2.1
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.2.1/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-v5.2.0-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-v5.2.1-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -976,10 +976,10 @@ SOFTWARE.
 [overseerr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [overseerr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [overseerr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/v3.6.0
-[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/v3.6.0/README.md
+[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/v3.6.1
+[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/v3.6.1/README.md
 [plex-issue]: https://github.com/hassio-addons/addon-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-v3.6.0-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-v3.6.1-blue.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
