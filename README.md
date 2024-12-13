@@ -841,10 +841,10 @@ SOFTWARE.
 [emqx-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [emqx-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [emqx-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-example]: https://github.com/hassio-addons/addon-example/tree/v10.0.0
-[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v10.0.0/README.md
+[addon-example]: https://github.com/hassio-addons/addon-example/tree/v10.0.1
+[addon-doc-example]: https://github.com/hassio-addons/addon-example/blob/v10.0.1/README.md
 [example-issue]: https://github.com/hassio-addons/addon-example/issues
-[example-version-shield]: https://img.shields.io/badge/version-v10.0.0-blue.svg
+[example-version-shield]: https://img.shields.io/badge/version-v10.0.1-blue.svg
 [example-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [example-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [example-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -976,10 +976,10 @@ SOFTWARE.
 [overseerr-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [overseerr-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [overseerr-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/v3.6.1
-[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/v3.6.1/README.md
+[addon-plex]: https://github.com/hassio-addons/addon-plex/tree/v3.6.2
+[addon-doc-plex]: https://github.com/hassio-addons/addon-plex/blob/v3.6.2/README.md
 [plex-issue]: https://github.com/hassio-addons/addon-plex/issues
-[plex-version-shield]: https://img.shields.io/badge/version-v3.6.1-blue.svg
+[plex-version-shield]: https://img.shields.io/badge/version-v3.6.2-blue.svg
 [plex-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [plex-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [plex-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
