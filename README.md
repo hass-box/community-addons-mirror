@@ -769,19 +769,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.2.1
-[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.2.1/README.md
+[addon-adguard]: https://github.com/hassio-addons/addon-adguard-home/tree/v5.2.2
+[addon-doc-adguard]: https://github.com/hassio-addons/addon-adguard-home/blob/v5.2.2/README.md
 [adguard-issue]: https://github.com/hassio-addons/addon-adguard-home/issues
-[adguard-version-shield]: https://img.shields.io/badge/version-v5.2.1-blue.svg
+[adguard-version-shield]: https://img.shields.io/badge/version-v5.2.2-blue.svg
 [adguard-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [adguard-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [adguard-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [adguard-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [adguard-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/v19.0.0
-[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/v19.0.0/README.md
+[addon-ssh]: https://github.com/hassio-addons/addon-ssh/tree/v20.0.0
+[addon-doc-ssh]: https://github.com/hassio-addons/addon-ssh/blob/v20.0.0/README.md
 [ssh-issue]: https://github.com/hassio-addons/addon-ssh/issues
-[ssh-version-shield]: https://img.shields.io/badge/version-v19.0.0-blue.svg
+[ssh-version-shield]: https://img.shields.io/badge/version-v20.0.0-blue.svg
 [ssh-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [ssh-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [ssh-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -958,14 +958,14 @@ SOFTWARE.
 [nginxproxymanager-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [nginxproxymanager-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [nginxproxymanager-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v18.1.1
-[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v18.1.1/README.md
+[addon-node-red]: https://github.com/hassio-addons/addon-node-red/tree/v19.0.0
+[addon-doc-node-red]: https://github.com/hassio-addons/addon-node-red/blob/v19.0.0/README.md
 [node-red-issue]: https://github.com/hassio-addons/addon-node-red/issues
-[node-red-version-shield]: https://img.shields.io/badge/version-v18.1.1-blue.svg
+[node-red-version-shield]: https://img.shields.io/badge/version-v19.0.0-blue.svg
 [node-red-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [node-red-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [node-red-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[node-red-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[node-red-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [node-red-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [addon-overseerr]: https://github.com/hassio-addons/addon-overseerr/tree/v0.1.0
 [addon-doc-overseerr]: https://github.com/hassio-addons/addon-overseerr/blob/v0.1.0/README.md
