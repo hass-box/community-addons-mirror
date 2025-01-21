@@ -1048,10 +1048,10 @@ SOFTWARE.
 [spotify-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [spotify-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [spotify-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/v5.18.0
-[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/v5.18.0/README.md
+[addon-vscode]: https://github.com/hassio-addons/addon-vscode/tree/v5.18.1
+[addon-doc-vscode]: https://github.com/hassio-addons/addon-vscode/blob/v5.18.1/README.md
 [vscode-issue]: https://github.com/hassio-addons/addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-v5.18.0-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-v5.18.1-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
@@ -1111,10 +1111,10 @@ SOFTWARE.
 [traccar-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [traccar-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
 [traccar-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
-[addon-unifi]: https://github.com/hassio-addons/addon-unifi/tree/v3.5.0
-[addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/v3.5.0/README.md
+[addon-unifi]: https://github.com/hassio-addons/addon-unifi/tree/v4.0.0
+[addon-doc-unifi]: https://github.com/hassio-addons/addon-unifi/blob/v4.0.0/README.md
 [unifi-issue]: https://github.com/hassio-addons/addon-unifi/issues
-[unifi-version-shield]: https://img.shields.io/badge/version-v3.5.0-blue.svg
+[unifi-version-shield]: https://img.shields.io/badge/version-v4.0.0-blue.svg
 [unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
